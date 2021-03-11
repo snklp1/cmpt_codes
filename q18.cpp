@@ -1,4 +1,5 @@
 //very easy but small mistakes made me loose too much time
+//https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/sumits-string/
 
 #include<bits/stdc++.h>
 using namespace std;
